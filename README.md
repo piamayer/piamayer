@@ -10,11 +10,16 @@
 - 💬 **Let's Connect**: Open to discussions about fashion, tech, sales strategies, and cultural trends.
 - ⚡ **Fun Fact**: I love combining fashion with technology, such as using AI for trend forecasting and VR for virtual fashion shows.
 
-- ## My Skills
+- ## Interests
 - **Fashion**: Trend Analysis, Styling, Sustainable Fashion, Fashion Design
 - **Sales**: Sales Strategy, Consumer Behavior, CRM, Retail Management
 - **Tech**: Digital Marketing, E-commerce, AI in Fashion, Data Analysis
 - **Culture**: Cultural Trends, Global Fashion, Cross-cultural Communication
+
+- ### My Skills
+- **Strengths:** Cold Calling, Vendor Negotiations, Pipeline Management, Salesforce Reports, Prospecting, Outreaching, A/B Testing
+- **Applications:** Outreach, Salesforce, LinkedIn Sales Navigator, Qualified, ZoomInfo, 6Sense, HighSpot, Figma
+
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/sofiamayer10/)
