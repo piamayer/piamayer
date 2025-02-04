@@ -14,8 +14,8 @@
 
 
 - ## My Skills
-- **Strengths:** Cold Calling, Vendor Negotiations, Pipeline Management, Salesforce Reports, Prospecting, Outreaching, A/B Testing
-- **Applications:** Outreach, Salesforce, LinkedIn Sales Navigator, Qualified, ZoomInfo, 6Sense, HighSpot, Figma
+- **Strengths:** Brand Storytelling, Campaign Development, Cold Calling, Vendor Negotiations, Pipeline Management, Salesforce Reports, Prospecting, Outreaching, A/B Testing
+- **Applications:** Adobe Creative Suite, Adobe Premiere Pro, Outreach, Salesforce, LinkedIn Sales Navigator, Qualified, ZoomInfo, 6Sense, HighSpot, Figma
 - **Languages:** English, Spanish
 
 
